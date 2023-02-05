@@ -1,2 +1,3 @@
 # e-ticaret tasarimi
- e-ticareti tasarımı yaptım
+Bu projede apple ürünlerini satan bir sitenini tasarımı yaptım.
+
